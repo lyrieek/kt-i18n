@@ -1,0 +1,9 @@
+{
+	"start": "开始",
+	"end": "结束",
+	"restart": "重新$start",
+	"print": "打印",
+	"print.2": "列印",
+	"hamburger": "汉堡",
+	"hamburger.2": "肉夹馍"
+}
